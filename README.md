@@ -1,3 +1,3 @@
 # apnacollegedemo
 this is my first github repository 
-owner - Arnav kumar ojha
+Author - Arnav kumar ojha
